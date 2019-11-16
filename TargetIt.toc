@@ -1,6 +1,6 @@
 ## Interface: 11302
 ## Title: TargetIt
-## Notes: Targets similar mobs (by name)
+## Notes: Target and Assist helper
 ## Author: Czupak
-## Version 0.0.4
+## Version 0.0.5
 TargetIt.xml
